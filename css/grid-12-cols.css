@@ -8,7 +8,7 @@
 }
 .row {
   *zoom: 1;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .row .col:first-child {
@@ -18,53 +18,53 @@
 .col {
 	float: left;
 	*display: inline-block;
-	margin-left: 28px;
+	margin-left: 2.18%;
 }
 
 .col1 {
-    width: 81px;
+    width: 6.32%;
 }
 
 .col2 {
-    width: 190px;
+    width: 14.84%;
 }
 
 .col3 {
-    width: 299px;
+    width: 23.35%;
 }
 
 .col4 {
-    width: 408px;
+    width: 31.87%;
 }
 
 .col5 {
-    width: 517px;
+    width: 40.39%;
 }
 
 .col6 {
-    width: 626px;
+    width: 48.90%;
 }
 
 .col7 {
-    width: 735px;
+    width: 57.42%;
 }
 
 .col8 {
-    width: 844px;
+    width: 65.93%;
 }
 
 .col9 {
-    width: 953px;
+    width: 74.45%;
 }
 
 .col10 {
-    width: 1062px;
+    width: 82.96%;
 }
 
 .col11 {
-    width: 1171px;
+    width: 91.48%;
 }
 
 .col12 {
-    width: 1280px;
+    width: 100%;
 }
