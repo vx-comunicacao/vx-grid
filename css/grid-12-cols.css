@@ -1,0 +1,70 @@
+.row:before,
+.row:after {
+  content: "";
+  display: table;
+}
+.row:after {
+  clear: both;
+}
+.row {
+  *zoom: 1;
+  margin-bottom: 10px;
+}
+
+.row .col:first-child {
+	margin-left: 0;
+}
+
+.col {
+	float: left;
+	*display: inline-block;
+	margin-left: 28px;
+}
+
+.col1 {
+    width: 81px;
+}
+
+.col2 {
+    width: 190px;
+}
+
+.col3 {
+    width: 299px;
+}
+
+.col4 {
+    width: 408px;
+}
+
+.col5 {
+    width: 517px;
+}
+
+.col6 {
+    width: 626px;
+}
+
+.col7 {
+    width: 735px;
+}
+
+.col8 {
+    width: 844px;
+}
+
+.col9 {
+    width: 953px;
+}
+
+.col10 {
+    width: 1062px;
+}
+
+.col11 {
+    width: 1171px;
+}
+
+.col12 {
+    width: 1280px;
+}
