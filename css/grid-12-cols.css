@@ -1,3 +1,4 @@
+/* CSS GERAL */
 .row:before,
 .row:after {
   content: "";
@@ -68,3 +69,67 @@
 .col12 {
     width: 100%;
 }
+
+
+/* OFFSETs */
+
+    /* offset1 */
+
+    .row .col.offset1:first-child {
+        margin-left: 8.51%;
+    }
+    .row .col.offset1 {
+        margin-left: 10.70%;
+    }
+
+    /* /offset1 */
+
+    /* offset2 */
+
+    .row .col.offset2:first-child {
+        margin-left: 17.02%;
+    }
+
+    .row .col.offset2 {
+        margin-left: 19.2%;
+    }
+
+    /* /offset2 */
+
+    /* offset3 */
+
+    .row .col.offset3:first-child {
+        margin-left: 25.53%;
+    }
+
+    .row .col.offset3 {
+        margin-left: 27.71% ;
+    }
+
+    /* /offset3 */
+
+    /* offset4 */
+
+    .row .col.offset4:first-child {
+        margin-left: 34.05%;
+    }
+
+    .row .col.offset4 {
+        margin-left: 36.23% ;
+    }
+
+    /* /offset4 */
+
+    /* offset5 */
+
+    .row .col.offset5:first-child {
+        margin-left: 42.57%;
+    }
+
+    .row .col.offset5 {
+        margin-left: 44.75% ;
+    }
+
+    /* /offset5 */
+
+/* /OFFSETs */
