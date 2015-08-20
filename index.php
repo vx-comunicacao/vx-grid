@@ -181,7 +181,7 @@
 
             <!-- /OFFSET 4 -->
 
-            <!-- OFFSET 4 -->
+            <!-- OFFSET 5 -->
 
             <div class="row">
                 <div class="col col7 box-custom offset5">
@@ -189,7 +189,67 @@
                 </div>
             </div>
 
-            <!-- /OFFSET 4 -->
+            <!-- /OFFSET 5 -->
+
+            <!-- OFFSET 6 -->
+
+            <div class="row">
+                <div class="col col6 box-custom offset6">
+                    .col6 offset 6
+                </div>
+            </div>
+
+            <!-- /OFFSET 6 -->
+
+            <!-- OFFSET 7 -->
+
+            <div class="row">
+                <div class="col col5 box-custom offset7">
+                    .col5 offset 7
+                </div>
+            </div>
+
+            <!-- /OFFSET 7 -->
+
+            <!-- OFFSET 8 -->
+
+            <div class="row">
+                <div class="col col4 box-custom offset8">
+                    .col4 offset 8
+                </div>
+            </div>
+
+            <!-- /OFFSET 8 -->
+
+            <!-- OFFSET 9 -->
+
+            <div class="row">
+                <div class="col col3 box-custom offset9">
+                    .col3 offset 9
+                </div>
+            </div>
+
+            <!-- /OFFSET 9 -->
+
+            <!-- OFFSET 10 -->
+
+            <div class="row">
+                <div class="col col2 box-custom offset10">
+                    .col2 offset 10
+                </div>
+            </div>
+
+            <!-- /OFFSET 10 -->
+
+            <!-- OFFSET 11 -->
+
+            <div class="row">
+                <div class="col col1 box-custom offset11">
+                    .col1 offset 11
+                </div>
+            </div>
+
+            <!-- /OFFSET 11 -->
         </div>
     </body>
 </html>
